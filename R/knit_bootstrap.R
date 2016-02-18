@@ -34,7 +34,8 @@ themes = c(
                 'Simplex'='https://netdna.bootstrapcdn.com/bootswatch/3.0.0/simplex/bootstrap.min.css',
                 'Slate'='https://netdna.bootstrapcdn.com/bootswatch/3.0.0/slate/bootstrap.min.css',
                 'Spacelab'='https://netdna.bootstrapcdn.com/bootswatch/3.0.0/spacelab/bootstrap.min.css',
-                'United'='https://netdna.bootstrapcdn.com/bootswatch/3.0.0/united/bootstrap.min.css'
+                'United'='https://netdna.bootstrapcdn.com/bootswatch/3.0.0/united/bootstrap.min.css',
+                'None'=''
                 )
 
 highlights = c(
